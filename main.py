@@ -32,7 +32,7 @@ class MorningBot:
                 file.write(f"{word}\n")
 
         # 6. Формируем финальное сообщение
-        message = f"{current_word.capitalize()}, доброе утро! ☀️"
+        message = f"{current_word.capitalize()}, доброе утречко ☀️😘❤️‍🔥"
         print(message)
 
 
